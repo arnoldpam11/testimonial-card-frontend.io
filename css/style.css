@@ -126,6 +126,13 @@ body {
 	color: var(--very-dark-grayish-blue);
 }
 
+/* Footer */
+
+.footer {
+	text-align: center;
+	font-size: 1rem;
+	font-weight: 600;
+}
 /* Media Queries */
 
 @media (max-width: 768px) {
