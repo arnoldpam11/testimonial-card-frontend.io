@@ -26,9 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]
-Desktop:(design/testimonial-cards-screenshot_MOBILE.png)
-Mobile:(design/testimonial-cards-screenshot_DESKTOP.png)
+![Screenshot](/design/testimonial-cards-screenshot_MOBILE.png)
+![](/design/testimonial-cards-screenshot_DESKTOP.png)
 
 ### Links
 
